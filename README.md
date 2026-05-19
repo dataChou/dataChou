@@ -13,6 +13,14 @@
 - **仓库**：[Credit_Scorecard](https://github.com/dataChou/Credit_Scorecard)
 - **模型报告**：见仓库 `report/` 文件夹
 
+### 🐾 宠物医院经营分析看板（RFM客户分层+盈利分析+流失预警）
+- **技术栈**：Python, Streamlit, Pandas, Plotly, Excel
+- **核心指标**：客户分层准确率100%，流失率40.2%→可挽回至25%，看病+绝育贡献74%营收
+- **亮点**：RFM模型自动分层，全局筛选联动所有图表，缺失值自动分箱，云端部署一键刷新，支持Excel/网页双版本
+- **在线演示**：https://businessdashboard-datachou.streamlit.app/
+- **仓库**：[Pet_Hospital_Business_Dashboard](https://github.com/dataChou/BusinessDashboard)
+- **模型报告**：见仓库（开发报告、经营建议报告）
+- 
 ### 📊 其他项目（待补充）
 - 临床护士AI态度潜在剖面分析（LPA）
 - 医疗保险欺诈检测（规划中）
@@ -20,4 +28,3 @@
 ## 联系我
 - 微信：Amydlmy
 - 邮箱：scarlettzwm@gmail.com
-- 手机：13811705180
