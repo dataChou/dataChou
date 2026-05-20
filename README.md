@@ -21,7 +21,16 @@
 - **仓库**：[Pet_Hospital_Business_Dashboard](https://github.com/dataChou/BusinessDashboard)
 - **模型报告**：见仓库（开发报告、经营建议报告）
 - 
-### 📊 其他项目（待补充）
+### ❤️ 心内科住院患者MACE风险预测（机器学习模型+临床决策工具）
+
+- **技术栈**：Python, R, Streamlit, scikit-learn, XGBoost, SHAP, pandas, joblib  
+- **核心指标**：逻辑回归 AUC=0.931, KS=0.724, 准确率=0.846  
+- **亮点**：集成逻辑回归、随机森林、XGBoost对比，最终模型AUC达0.931；SHAP全特征可视化，风险决策透明；中英文双语Web应用，输入即得风险概率+分级建议（低/中/高危）；R与Python混合编程，兼顾建模严谨性与前端部署效率  
+- **在线演示**：https://mace-prediction-app-datchou.streamlit.app/  
+- **仓库**：[mace-prediction-streamlit](https://github.com/dataChou/mace-prediction-streamlit)  
+- **模型报告**：见仓库 `report/` 文件夹（技术报告、执行摘要、SHAP分析）
+- 
+### 📊 其他项目
 - 临床护士AI态度潜在剖面分析（LPA）
 - 医疗保险欺诈检测（规划中）
 
